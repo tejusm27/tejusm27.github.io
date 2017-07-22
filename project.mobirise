@@ -40,8 +40,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "AtmoSpark",
+        "meta_descr": "AtmoSpark is an atmospheric water generation company aiming to bring freshwater to everyone.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
